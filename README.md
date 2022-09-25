@@ -7,6 +7,6 @@ This data orginated as eight seperate and unclean datasets.
 The data was cleaned and merged using simple conditional formating and VLOOKUP in excel.
 
 
-The data was converted into a downloadable .csv file and reopen in tableau.
+The data was converted into a downloadable .csv file and reopened in Tableau.
 Performed seperate visuals across several sheets.
 Collected the conclusive visuals to present in the dashboard.
