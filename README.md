@@ -1,6 +1,6 @@
 # Accenture-data-Project
 Some of the work preformed while completing Accenture's data analysis and visualizations data project. 
-The focus was on demographical data to find effective marketing demographics.
+The focus was on Tableau visuals aimed at demographical data to find effective marketing demographics.
 
 
 This data orginated as eight seperate and unclean datasets.
